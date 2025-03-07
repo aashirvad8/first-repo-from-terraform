@@ -1,0 +1,5 @@
+# instance_name = "test-instance"
+# # instance_zone = "Zone B"
+# # instance_region = "us-east1"
+# project_name = "My First Project"
+# custom_network = "test-network"
