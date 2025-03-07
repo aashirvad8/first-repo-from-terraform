@@ -13,7 +13,7 @@ depends_on = [ var.custom_network ]
   network_interface {
     network = var.custom_network
     subnetwork = "subnet-01"
-    access_config {}
+    
   }
   
 }
